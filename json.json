@@ -1,0 +1,12 @@
+{
+    "datax": [
+        ["John", 30, "New York"],
+        ["Jane", 25, "Los Angeles"]
+    ],
+    "title": ["name", "age", "city"],
+    "renderFunctions": [
+        null,
+        "return '<strong>' + data + '</strong>';",
+        null
+    ]
+}
